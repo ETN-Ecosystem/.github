@@ -1,51 +1,31 @@
+<!-- ETN Ecosystem Badges - Final Layout -->
+
+<!-- Main Project Information -->
 <p align="center">
-  <a href="https://etnecosystem.org/" target="_blank">
-    <img src="https://img.shields.io/badge/ETN-Ecosystem-133A2A?labelColor=FFB400" alt="ETN Ecosystem"/>
-  </a>
-  <a href="https://docs.etnecosystem.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20the-Docs-133A2A?logo=readthedocs&labelColor=FFB400" alt="Documentation"/>
-  </a>
-  <a href="http://etn-learn.ethio-tech.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Learn-Portal-133A2A?logo=gitbook&labelColor=FFB400" alt="Learning Portal"/>
-  </a>
+  <img src="https://img.shields.io/badge/ETN%20Ecosystem-133A2A" alt="ETN Ecosystem"/>
+  <img src="https://img.shields.io/badge/Built%20on-TON-0088CC?logo=ton&logoColor=white" alt="Built on TON"/>
+  <img src="https://img.shields.io/badge/Read%20the-Docs-133A2A?logo=readthedocs&labelColor=FFB400" alt="Documentation"/>
+  <img src="https://img.shields.io/badge/ETN-Learn-133A2A?logo=gitbook&labelColor=FFB400" alt="ETN Learn"/>
 </p>
 
+<!-- Social & Community Links -->
 <p align="center">
-  <a href="https://x.com/etnetsa" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-X-133A2A?logo=x&labelColor=FFB400" alt="Follow on X"/>
-  </a>
-  <a href="https://www.youtube.com/@ETNetsaCoin?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-YouTube-133A2A?logo=youtube&labelColor=FFB400" alt="Subscribe on YouTube"/>
-  </a>
-  <a href="https://www.tiktok.com/@etneco" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-TikTok-133A2A?logo=tiktok&labelColor=FFB400" alt="Follow on TikTok"/>
-  </a>
-  <a href="https://t.me/et_apps" target="_blank">
-    <img src="https://img.shields.io/badge/Community-Chat-133A2A?logo=telegram&labelColor=FFB400" alt="Community Chat on Telegram"/>
-  </a>
-  <a href="https://t.me/etnetsacoin" target="_blank">
-    <img src="https://img.shields.io/badge/Project-Announcements-133A2A?logo=telegram&labelColor=FFB400" alt="Announcements on Telegram"/>
-  </a>
+  <img src="https://img.shields.io/badge/Follow%20on-X-133A2A?logo=x&labelColor=FFB400" alt="Follow on X"/>
+  <img src="https://img.shields.io/badge/Subscribe-YouTube-133A2A?logo=youtube&labelColor=FFB400" alt="Subscribe on YouTube"/>
+  <img src="https://img.shields.io/badge/Follow%20on-TikTok-133A2A?logo=tiktok&labelColor=FFB400" alt="Follow on TikTok"/>
+  <img src="https://img.shields.io/badge/Community-Chat-133A2A?logo=telegram&labelColor=FFB400" alt="Community Chat on Telegram"/>
+  <img src="https://img.shields.io/badge/Project-Announcements-133A2A?logo=telegram&labelColor=FFB400" alt="Announcements on Telegram"/>
 </p>
 
+<!-- TON Ecosystem & Financial Links -->
 <p align="center">
-  <a href="https://ton.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Built%20on-TON-0088CC?logo=ton&logoColor=white" alt="Built on TON"/>
-  </a>
-  <a href="https://www.geckoterminal.com/ton/pools/EQBt7drPhWyQRIVnSkDzThhiVcq1lwPT371DYX-gGHzN9bwh" target="_blank">
-    <img src="https://img.shields.io/badge/Gecko-Terminal-133A2A?labelColor=FFB400" alt="GeckoTerminal Price Chart"/>
-  </a>
-  <a href="https://jvault.xyz/staking/v2/stake/ETN-ECO" target="_blank">
-    <img src="https://img.shields.io/badge/Stake%20on-jVault-133A2A?labelColor=FFB400" alt="Stake on jVault"/>
-  </a>
-  <a href="https://tonviewer.com/EQAz_XrD0hA4cqlprWkpS7TIAhCG4CknAfob1VQm-2mBf5Vl" target="_blank">
-    <img src="https://img.shields.io/badge/Jetton-Master-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Jetton Master on Tonviewer"/>
-  </a>
-  <a href="https://tonviewer.com/UQA7KhoTClG9QR7DwN1RGAkWIRU0dNp_R8F615y5PiEGQDEK" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-TON-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Donate TON"/>
+  <img src="https://img.shields.io/badge/Gecko-Terminal-133A2A?labelColor=FFB400" alt="GeckoTerminal Price Chart"/>
+  <img src="https://img.shields.io/badge/Stake%20on-jVault-133A2A?labelColor=FFB400" alt="Stake on jVault"/>
+  <img src="https://img.shields.io/badge/Jetton-Master-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Jetton Master on Tonviewer"/>
+  <a href="ton://transfer/UQA7KhoTClG9QR7DwN1RGAkWIRU0dNp_R8F615y5PiEGQDEK?amount=5000000000" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-5%20TON-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Donate 5 TON"/>
   </a>
 </p>
-
 # ETN Ecosystem 🌐
 
 Welcome to the official **ETN Ecosystem** GitHub repository! The ETN Ecosystem is a blockchain-powered initiative that provides diverse utilities built on the **TON Blockchain**. This project leverages **ET Netsa Coin ($ETN)** to enable seamless access to decentralized services, education, governance, and Web3 technologies in a user-centric way.
