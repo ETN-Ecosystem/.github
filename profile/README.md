@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/Donate-5%20TON-133A2A?logo=ton&logoColor=white&labelColor=FFB400" alt="Donate 5 TON"/>
   </a>
 </p>
+
+---
+
 # ETN Ecosystem 🌐
 
 Welcome to the official **ETN Ecosystem** GitHub repository! The ETN Ecosystem is a blockchain-powered initiative that provides diverse utilities built on the **TON Blockchain**. This project leverages **ET Netsa Coin ($ETN)** to enable seamless access to decentralized services, education, governance, and Web3 technologies in a user-centric way.
